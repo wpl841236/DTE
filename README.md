@@ -1,3 +1,6 @@
+## 语言
+- [English](#english)
+- [中文](#中文)
 # DTE
 DTE--D DOS T Terminal  E Emulator 即DOS终端模拟器
 # 编译源代码
