@@ -1,6 +1,6 @@
 ## Language
-- [English](README_EN.md)
-- [中文](README.md)
+- <a href="README_EN.md" target="_self">English</a>
+- <a href="README.md" target="_self">Chinese</a>
 
 # DTE
 DTE – D DOS T Terminal E Emulator, short for DOS Terminal Emulator
